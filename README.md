@@ -1,7 +1,7 @@
 # BilibiliAnimeDownload
 Version1：目前只能下载EP号的番剧
 感谢SocialSisterYi大佬整合的B站APi合集
-https://github.com/NorthSkybk/bilibili-API-collect
+https://github.com/SocialSisterYi/bilibili-API-collect
 ---
 本次项目的核心思想在于：
 ---
