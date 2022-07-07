@@ -11,3 +11,5 @@ https://github.com/SocialSisterYi/bilibili-API-collect
 通过某一集番剧的ID获取到整个番剧列表——通过番剧列表查询番剧Bv号——通过播放器获取到源视频地址
 ---
 最后再用aria2下载，用FFMpeg从FLV转为MP4
+---
+Version1就不要再用了，试试全新的Version2吧！！！
