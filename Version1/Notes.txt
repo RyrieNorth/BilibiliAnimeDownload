@@ -1,0 +1,21 @@
+自己的的Cookie值切记不要外泄！！！
+Cookie值不要填错，填错就会变成720P了
+如果运行报错请执行如下命令：
+
+pip install requests
+
+
+
+##鸣谢：
+小贝贝网站提供视频地址解析：https://xbeibeix.com/api/bilibili/
+iiilab网站提供的视频地址解析：https://bilibili.iiilab.com/?hao.su
+获取B站Cookies：https://xiaomiku01.github.io/bili-live-heart/Guide/Cookie.html
+阮一峰老师的curl的用法指南：https://www.ruanyifeng.com/blog/2019/09/curl-reference.html
+转码视频处理：https://mlog.club/article/3155641
+B站地址获取过程-1：https://blog.csdn.net/ucsheep/article/details/89394700
+B站地址获取过程-2：https://blog.csdn.net/ucsheep/article/details/102529604
+Aria2使用举例：https://blog.csdn.net/hjwang1/article/details/44408633
+
+##特别鸣谢：
+哔哩哔哩-API收集整理：https://github.com/SocialSisterYi/bilibili-API-collect
+在这里收录了许多B站的APi，这个小脚本的就用到了该项目的Video块
