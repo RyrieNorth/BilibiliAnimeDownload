@@ -1,7 +1,7 @@
 # BilibiliAnimeDownload
 Version1：目前只能下载EP号的番剧
 ---
-Version2: 目前只能下载除港澳台以外的番剧，剔除了一些无用的代码，新增了正则表达式用以判断番剧ID类型与特殊字符处理
+Version2：目前只能下载除港澳台以外的番剧，剔除了一些无用的代码，新增了正则表达式用以判断番剧ID类型与特殊字符处理
 ---
 感谢SocialSisterYi大佬整合的B站APi合集
 https://github.com/SocialSisterYi/bilibili-API-collect
