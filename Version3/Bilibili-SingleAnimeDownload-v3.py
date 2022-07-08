@@ -12,6 +12,7 @@ from urllib import parse
 ##定义视频Ep号
 AnimeID = "ss41411"             ##辉夜：ss41411，实教：ss42135
 
+##设置代理路径，这里我用的是v2ray作为代理转发
 proxies = {
  "https": None,
  "http": "127.0.0.1:10809"
