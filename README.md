@@ -13,3 +13,5 @@ https://github.com/SocialSisterYi/bilibili-API-collect
 最后再用aria2下载，用FFMpeg从FLV转为MP4
 ---
 Version1就不要再用了，试试全新的Version2吧！！！
+---
+Version3更新剔除了函数的调用，提高了执行效率，新增了番剧数据的判断，新增了使用代理服务器获取港澳台番剧的功能
