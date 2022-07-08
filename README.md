@@ -14,5 +14,5 @@ https://github.com/SocialSisterYi/bilibili-API-collect
 ---
 Version1就不要再用了，试试全新的Version2吧！！！
 ---
-Version3：更新剔除了函数的调用，提高了执行效率，新增了番剧数据的判断，新增了使用代理服务器获取港澳台番剧的功能
+Version3：剔除了函数的调用，提高了执行效率，新增了番剧数据的判断，使用代理服务器获取港澳台番剧的功能
 ---
